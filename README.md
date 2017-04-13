@@ -1,0 +1,2 @@
+# Qlikview
+Desenvolvimentos Qlikview
